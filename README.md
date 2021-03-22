@@ -4,7 +4,7 @@ An example project built on my [React/Django boilerplate](example.com).
 
 ## 🖼 Screenshots
 
-TODO
+![Screenshot](https://github.com/Garfield1002/Event-Reservation/blob/master/Screenshot.png?raw=true)
 
 ## 📖 Usage
 
