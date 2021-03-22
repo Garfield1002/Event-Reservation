@@ -1,0 +1,18 @@
+.verificationDigit {
+  font-size: 5rem;
+  padding: 0;
+  line-height: 0;
+  width: 1.5ch;
+  margin-left: 0.12ch;
+  margin-right: 0.12ch;
+  text-align: center;
+  border: 0;
+  border-bottom: 1px solid #ced4da;
+}
+
+.verificationDigit:focus {
+  border: 0;
+  outline: 0;
+  border-bottom: 1px solid #80bdff;
+  box-shadow: 0 0.4rem 0.2rem -0.2rem rgba(0, 123, 255, 0.25);
+}

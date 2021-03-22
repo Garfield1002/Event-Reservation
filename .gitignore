@@ -1,0 +1,9 @@
+# You would usually want to exclude this
+# .env
+
+# python
+__pycache__/
+*.py[cod]
+
+# vs code
+.vscode/

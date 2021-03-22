@@ -1,0 +1,15 @@
+# django
+django
+
+# uWSGI
+uwsgi
+
+# postgreSQL
+psycopg2
+
+# other
+graphene-django
+django-filter
+PyJWT==1.7.0
+django-graphql-jwt
+whitenoise
